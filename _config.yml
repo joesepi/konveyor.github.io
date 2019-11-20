@@ -3,4 +3,3 @@ description: Open Source, Migration Assistance for Kubernetes
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-include: _site/index.html
