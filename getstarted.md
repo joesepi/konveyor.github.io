@@ -1,6 +1,6 @@
 layout: page
 title: "Getting Started"
-permalink: /URL-PATH/
+permalink: /getstarted
 
 
 Welcome to the **Getting Started guide**
