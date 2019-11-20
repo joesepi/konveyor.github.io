@@ -3,5 +3,5 @@ description: Open Source, Migration Assistance for Kubernetes
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-github.url: http://github.com/konveyor
-getstarted.url: /getstarted
+github_url: http://github.com/konveyor
+getstarted_url: /getstarted
