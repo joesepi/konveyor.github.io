@@ -22,3 +22,12 @@ Konveyor supports multiple datasources for discovery and assesment. Choose the b
 *   Source Code
 *   Application Archives
 
+## Features of Konveyor
+
+* Simple discovery of existing applications and infrastructure
+* Obtain recommendations quickly for how to move to Kubernetes
+* Store data on-premise or in the cloud
+* Customize recommendations for your specific requirements
+* Execute migrations with automated tools
+* Open source software released under the **insert** license
+* Move to the cloud faster!

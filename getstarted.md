@@ -4,8 +4,6 @@ title: Get Started with Konveyor
 description: Konveyor Getting Started Guide
 ---
 
-Welcome to the **Getting Started guide**
-
 # Introduction
 
 There are two parts of the Konveyor project.
@@ -17,6 +15,10 @@ There are two parts of the Konveyor project.
 
 ## Getting Started with Konveyor-Analyze
 
+In order to get started with Konveyor-Analyze ...
+
 
 ## Getting Started with Konveyor-Migrate
+
+In order to get started with Konveyor-Migrate ...
 
