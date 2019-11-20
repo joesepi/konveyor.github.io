@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Getting Started"
-permalink: /getstarted
+title: Getting Started
 ---
 
 Welcome to the **Getting Started guide**
