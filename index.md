@@ -5,6 +5,7 @@ layout: default
 # What is Konveyor?
 
 **Tools and Services for Migration to K8s**
+
 Konveyor is a set of tools and services that can be used to discover, assess, and migrate existing application to kubernetes. It automates discovery of applications, provides rules based insights for how those applications can be brought to kubernetes, and provides tools for automating the migration.
 
 Konveyor leverages the power of the Kubernetes platform to deliver its services by using operators to perform most of tasks.
