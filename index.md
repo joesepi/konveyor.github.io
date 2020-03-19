@@ -30,5 +30,5 @@ Konveyor supports multiple datasources for discovery and assesment. Choose the b
 * Store data on-premise or in the cloud
 * Customize recommendations for your specific requirements
 * Execute migrations with automated tools
-* Open source software released under the **insert** license
+* Open source software released under the Apache 2.0 license
 * Move to the cloud faster!
