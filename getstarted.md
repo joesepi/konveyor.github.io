@@ -22,5 +22,5 @@ $ oc create namespace openshift-migration
 namespace/openshift-migration created
 `
 
-![001.png](https://github.com/konveyor/konveyor.github.io/blob/master/images/getstarted/001.png)
+![001.png](https://github.com/konveyor/konveyor.github.io/raw/master/images/getstarted/001.png)
 
