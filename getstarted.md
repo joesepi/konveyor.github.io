@@ -182,16 +182,16 @@ $ oc create -f bc.yml
 Create the ObjectBucketClaim CR configuration file, obc.yml, with the following content:
 
 ```
-apiVersion: objectbucket.io/v1alpha1
-kind: ObjectBucketClaim
-metadata:
-  name: migstorage
-  namespace: openshift-storage
-spec:
-  bucketName: migstorage 1
-  storageClassName: openshift-storage.noobaa.io
-  additionalConfig:
-    bucketclass: mcg-pv-pool-bc
+    apiVersion: objectbucket.io/v1alpha1
+    kind: ObjectBucketClaim
+    metadata:
+      name: migstorage
+      namespace: openshift-storage
+    spec:
+      bucketName: migstorage 1
+      storageClassName: openshift-storage.noobaa.io
+      additionalConfig:
+        bucketclass: mcg-pv-pool-bc
 ```
 
 Create the ObjectBucketClaim object:
