@@ -70,6 +70,8 @@ After installing Konveyor by operator you will need to create a replication repo
 
 ### Configuring the Replication Repository using Multi-Cloud Object Gateway (MCG) and OpenShift Container Storage (OCS)
 
+In this getting started guide we show you how to configure OpenShift Container Storage (OCS) with the Multi-Cloud Object Gateway (MCG). You could use AWS S3, Microsoft Azure Blob, or GCP storage buckets as well. 
+
 On the OpenShift 4 cluster, create a namespace named "openshift-migration". This is where we will install the Konveyor operator.
 
 `
@@ -102,7 +104,7 @@ Click Subscribe
 
 On the OpenShift 4 cluster create a Custom Resource (CR). Create a noobaa.yml with the following content:
 
-`
+```
 apiVersion: noobaa.io/v1alpha1
 kind: NooBaa
 metadata:
@@ -117,17 +119,17 @@ spec:
    requests:
      cpu: 0.5
      memory: 1Gi
-`
+```
 
 Create the NooBaa object:
 
-`
+```
 $ oc create -f noobaa.yml
-`
+```
 
 Create the BackingStore CR configuration file, bs.yml, with the following content:
 
-`
+```
 apiVersion: noobaa.io/v1alpha1
 kind: BackingStore
 metadata:
@@ -145,17 +147,17 @@ spec:
         storage: 50Gi 2
     storageClass: gp2 3
   type: pv-pool
-`
+```
 
 Create the BackingStore object:
 
-`
+```
 $ oc create -f bs.yml
-`
+```
 
 Create the BucketClass CR configuration file, bc.yml, with the following content:
 
-`
+```
 apiVersion: noobaa.io/v1alpha1
 kind: BucketClass
 metadata:
@@ -169,17 +171,17 @@ spec:
     - backingStores:
       - mcg-pv-pool-bs
       placement: Spread
-`
+```
 
 Create the BucketClass object:
 
-`
+```
 $ oc create -f bc.yml
-`
+```
 
 Create the ObjectBucketClaim CR configuration file, obc.yml, with the following content:
 
-`
+```
 apiVersion: objectbucket.io/v1alpha1
 kind: ObjectBucketClaim
 metadata:
@@ -190,19 +192,19 @@ spec:
   storageClassName: openshift-storage.noobaa.io
   additionalConfig:
     bucketclass: mcg-pv-pool-bc
-`
+```
 
 Create the ObjectBucketClaim object:
 
-`
+```
 $ oc create -f obc.yml
-`
+```
 
 Watch the resource creation process to verify that the ObjectBucketClaim status is Bound:
 
-`
+```
 $ watch -n 30 'oc get -n openshift-storage objectbucketclaim migstorage -o yaml'
-`
+```
 
 This process can take five to ten minutes.
 
@@ -210,21 +212,21 @@ Obtain and record the following values, which are required when you add the repl
 
  - S3 endpoint:
 
-`
+```
 $ oc get route -n openshift-storage s3
-`
+```
 
  - S3 provider access key:
 
-`
+```
 $ oc get secret -n openshift-storage migstorage -o go-template='{{ .data.AWS_ACCESS_KEY_ID }}' | base64 -d
-`
+```
 
  - S3 provider secret access key:
 
-`
+```
 $ oc get secret -n openshift-storage migstorage -o go-template='{{ .data.AWS_SECRET_ACCESS_KEY }}' | base64 -d
-`
+```
 
 
 
