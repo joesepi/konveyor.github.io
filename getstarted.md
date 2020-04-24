@@ -6,7 +6,7 @@ description: Konveyor Getting Started Guide
 
 # Introduction
 
-**Konveyor** provides tools for migrating existing applications and infrastructure to and between Kubernetes clusters. At this time, Konveyor-Migrate requires OpenShift. The team is working to make it work with Kubernetes clusters in the future.
+**Konveyor** provides tools for migrating existing applications and infrastructure between Kubernetes clusters. At this time, Konveyor works on OpenShift Kubernetes clusters. The team is working to make it work with other Kubernetes clusters in the future.
 
 
 ## Assumptions
