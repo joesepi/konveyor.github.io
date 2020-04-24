@@ -6,19 +6,21 @@ description: Konveyor Getting Started Guide
 
 # Introduction
 
-There are two parts of the Konveyor project.
-
-**Konveyor-Analyze** provides analytics of existing applications and infrastructure and makes recommendations for how to transform them to run on Kubernetes clusters.
-
-**Konveyor-Migrate** provides tools for migrating existing applications and infrastructure to and between Kubernetes clusters. 
+**Konveyor** provides tools for migrating existing applications and infrastructure to and between Kubernetes clusters. At this time, Konveyor-Migrate requires OpenShift. The team is working to make it work with Kubernetes clusters in the future.
 
 
-## Getting Started with Konveyor-Analyze
+## Assumptions
 
-In order to get started with Konveyor-Analyze ...
+In this guide we assume you have two OpenShift clusters running and are logged into them.
 
+## Installing the Konveyor Operator
 
-## Getting Started with Konveyor-Migrate
+On your OpenShift cluster, create a namespace. This is where we will install the Konveyor operator.
 
-In order to get started with Konveyor-Migrate ...
+`
+$ oc create namespace openshift-migration
+namespace/openshift-migration created
+`
+
+![001.png](https://github.com/konveyor/konveyor.github.io/blob/master/images/getstarted/001.png)
 
