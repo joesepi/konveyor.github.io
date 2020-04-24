@@ -42,5 +42,13 @@ Click install
 
 ![005.png](https://github.com/konveyor/konveyor.github.io/raw/master/images/getstarted/005.png)
 
+Set the installation mode to "A specific namespace on the cluster" and set the namespace dropdown to "openshift-migration".
 
+Set the "Update Channel" to "release-v1.1"
+
+Set the "Approval Strategy" to "Automatic"
+
+Click Subscribe
+
+![006.png](https://github.com/konveyor/konveyor.github.io/raw/master/images/getstarted/006.png)
 
