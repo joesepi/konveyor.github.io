@@ -11,6 +11,6 @@ The Konveyor Community is a collective of people passionate about helping others
 
 ## Features of Konveyor
 
-* [mig-controller](https://github.com/konveyor/mig-controller) - A tool for migrating namespaces between Kubernetes clusters.
-* [virt-controller](https://github.com/konveyor/virt-controller) - A tool for migrating virtual machines to KubeVirt.
+* [mig-operator](https://github.com/konveyor/mig-operator) - A tool for migrating namespaces between Kubernetes clusters.
+* [virt-operator](https://github.com/konveyor/virt-operator) - A tool for migrating virtual machines to KubeVirt.
 * [move2kube](https://github.com/konveyor/move2kube) - A tool that accelerates the process of re-platforming to Kubernetes by analyzing source artifacts.
