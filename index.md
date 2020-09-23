@@ -14,3 +14,7 @@ The Konveyor Community is a collective of people passionate about helping others
 * [mig-operator](https://github.com/konveyor/mig-operator) - A tool for migrating namespaces between Kubernetes clusters.
 * [virt-operator](https://github.com/konveyor/virt-operator) - A tool for migrating virtual machines to KubeVirt.
 * [move2kube](https://github.com/konveyor/move2kube) - A tool that accelerates the process of re-platforming to Kubernetes by analyzing source artifacts.
+
+## Collaborate
+
+If you are interested in collaborating you can ask a question in the [forum](https://groups.google.com/access-error?continue=https://groups.google.com/g/konveyorio) or join us in the #konveyor room on the [Kubernetes slack](https://slack.k8s.io/).
