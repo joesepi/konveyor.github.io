@@ -24,6 +24,8 @@ The Konveyor Community is a collective of people passionate about helping others
 
 ![mig-operator](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_mig-operator.png)
 
+mig-operator allows users to 
+
 ### virt-operator
 
 ![virt-operator](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_virt-operator.png)
@@ -37,4 +39,5 @@ The Konveyor Community is a collective of people passionate about helping others
 
 ## Assistance and Collaboration
 
-If you need help or are interested in collaborating you can ask a question in the [forum](https://groups.google.com/access-error?continue=https://groups.google.com/g/konveyorio) or join us in the #konveyor room on the [Kubernetes slack](https://slack.k8s.io/).
+If you need help or are interested in collaborating you can ask a question in the [forum](https://groups.google.com/access-error?continue=https://groups.google.com/g/konveyorio) or join us in the #konveyor room on the [Kubernetes slack](https://slack.k8s.io/). 
+
