@@ -24,17 +24,20 @@ The Konveyor Community is a collective of people passionate about helping others
 
 ![mig-operator](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_mig-operator.png)
 
-mig-operator allows users to 
+mig-operator allows users to discover namespaces on source clusters and migrate the objects and their persistent volumes to a destination cluster.
 
 ### virt-operator
 
 ![virt-operator](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_virt-operator.png)
+
+virt-operator allows users to discover virtual machines running on traditional virtualization (vSphere) and migrate them to Kubevirt.
 
 
 ### Move2Kube
 
 ![mig-operator](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_move2kube.png)
 
+move2kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. 
 
 
 ## Assistance and Collaboration
