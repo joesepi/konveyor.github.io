@@ -5,16 +5,12 @@ layout: default
 
 # What is Konveyor?
 
-**Move applications between Kubernetes Clusters**
+**A Collection of Tools to Help Organizations Adopt Kubernetes**
 
-Konveyor discovers, assesses, and migrates applications between Kubernetes clusters. Konveyor leverages the power of the Kubernetes platform to deliver its services by using operators to perform most tasks.
+The Konveyor Community is a collective of people passionate about helping others modernize and migrate their applications to the hybrid cloud by building tools, best practices, and providing advice on how to break down monoliths, adopt containers, and embrace Kubernetes.
 
 ## Features of Konveyor
 
-* Quickly install via operator
-* Add Kubernetes clusters to Konveyor
-* Discover existing applications within Kubernetes clusters via namespaces
-* Setup replication repositories
-* Configure migration plans to execute the migration
-* Use a copy or move strategy based on your need
-* Open source software released under the Apache 2.0 license
+* (mig-controller)[https://github.com/konveyor/mig-controller] - A tool for migrating namespaces between Kubernetes clusters.
+* (virt-controller)[https://github.com/konveyor/virt-controller] - A tool for migrating virtual machines to KubeVirt.
+* (move2kube)[https://github.com/konveyor/move2kube] - A tool that accelerates the process of re-platforming to Kubernetes by analyzing source artifacts.
