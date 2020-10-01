@@ -5,7 +5,7 @@ layout: default
 
 # What is Konveyor?
 
-**A Collection of Tools and Best Practices to Help Organizations Adopt Kubernetes**
+**A Collection of Tools and Best Practices to Help Organizations Transform**
 
 The Konveyor Community is a group of people passionate about helping others modernize and migrate their applications to the hybrid cloud by building tools, best practices, and providing advice on how to break down monoliths, adopt containers, and embrace Kubernetes.
 
