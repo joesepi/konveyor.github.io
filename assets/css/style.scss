@@ -16,12 +16,12 @@ h1#logo {
 .main-logo{
   position:relative;z-index:9;
   
-max-width: 65%; 
+max-width: 70%; 
 display:block; 
 margin: 0 auto;
 }
 
-.belt{width: 100%;  margin-top: 5px; color:#fff}
+.belt{width: 100%; color:#fff}
 
 @keyframes beltmove{
   100%{stroke-dashoffset: 600;
@@ -31,7 +31,7 @@ margin: 0 auto;
 .belt path{
   transform: skew(-45deg);
 
-  stroke-width: 30;
+  stroke-width: 35;
   stroke-dasharray: 2 10 2 10 2 10 2 10 2 10 ;
   animation: beltmove 20s linear infinite;
 }
