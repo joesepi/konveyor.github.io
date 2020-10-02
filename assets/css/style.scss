@@ -22,7 +22,7 @@ margin: 0 auto;
 margin-bottom:-5em
 }
 
-.belt{width: 100%;  color:#247}
+.belt{width: 100%;  color:#fff}
 
 @keyframes beltmove{
   100%{stroke-dashoffset: 600;
@@ -32,7 +32,7 @@ margin-bottom:-5em
 .belt path{
   transform: skew(-45deg);
 
-  stroke-width: 20;
+  stroke-width: 30;
   stroke-dasharray: 2 10 2 10 2 10 2 10 2 10 ;
   animation: beltmove 20s linear infinite;
 }
