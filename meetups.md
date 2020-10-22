@@ -3,7 +3,9 @@ You can find a list of presentations and meetings on this page. All dates and ti
 
 | Date               |     Time        |  Topic    |   Link    | 
 | ------------------ | --------------- |-----------|-----------|
-| November 3, 2020   | 1200            | Migrating Applications to k8s with the Migration Toolkit for Apps | [Meet](https://meet.google.com/qqm-xdbz-cut?hs=122&authuser=0) |
+| November 16, 2020  | 1200            | Migrating VMs from OpenStack to KubeVirt with stack2shift | [Meet](https://meet.google.com/rcy-fqcg-pvs?hs=122&authuser=0) |
+| November 10, 2020  | 1100            | Analyzing applications for containerization with Pathfinder | [Meet](https://meet.google.com/jke-hvsy-jyk?hs=122&authuser=0)
+| November 3, 2020   | 1200            | Migrating applications to k8s with the Migration Toolkit for Apps | [Meet](https://meet.google.com/qqm-xdbz-cut?hs=122&authuser=0) |
 | October 26, 2020   | 1200            | Migrating applications between K8s clusters | [Meet](https://meet.google.com/mhc-yuim-rih?authuser=0)  |
 | October 23, 2020   | 0900            | Translating Application Requirements into Helm Charts | [Meet](https://meet.google.com/mkq-zoqv-xuz?hs=122&authuser=1) |
 | October 21, 2020   | 1200            | Taking your Digital Transformation Journey to Innovation | [Unscripted Conference](https://www.unscriptedconf.io/)  |
