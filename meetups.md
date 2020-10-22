@@ -1,7 +1,7 @@
 You can find a list of presentations and meetings on this page. All dates and times are Eastern Daylight Time zone (GMT-4). If you would like to receive invitations to meetups please join the [Konveyor Google Group](https://groups.google.com/g/konveyorio). If you are interested in presenting your work to the Konveyor community please email [konveyor@googlegroups.io](mailto:konveyor@googlegroups.io) with your idea and someone from the community will contact you.
 
 
-| Date               |     Time        |  Topic    |   Link    | 
+| Date               |     Time (EST)  |  Topic    |   Link    | 
 | ------------------ | --------------- |-----------|-----------|
 | November 16, 2020  | 1200            | Migrating VMs from OpenStack to KubeVirt with stack2shift | [Meet](https://meet.google.com/rcy-fqcg-pvs?hs=122&authuser=0) |
 | November 10, 2020  | 1100            | Analyzing applications for containerization with Pathfinder | [Meet](https://meet.google.com/jke-hvsy-jyk?hs=122&authuser=0)
