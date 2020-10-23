@@ -7,7 +7,7 @@ You can find a list of presentations and meetings on this page. All dates and ti
 | November 10, 2020  | 1100            | Analyzing applications for containerization with Pathfinder | [Meet](https://meet.google.com/jke-hvsy-jyk?hs=122&authuser=0)
 | November 3, 2020   | 1200            | Migrating applications to k8s with the Migration Toolkit for Apps | [Meet](https://meet.google.com/qqm-xdbz-cut?hs=122&authuser=0) |
 | October 26, 2020   | 1200            | Migrating applications between K8s clusters | [Meet](https://meet.google.com/mhc-yuim-rih?authuser=0)  |
-| October 23, 2020   | 0900            | Translating Application Requirements into Helm Charts | [Recording](https://drive.google.com/file/d/1S92cSZvUtIhLlZyHeAZ5le3yn4DgAmxx/view?usp=sharing) |
+| October 23, 2020   | 0900            | Translating Application Requirements into Helm Charts | [Recording](https://drive.google.com/file/d/1S92cSZvUtIhLlZyHeAZ5le3yn4DgAmxx/view?usp=sharing) [Slides](https://docs.google.com/presentation/d/1BN5__zvVlmBc47Jv1IMBi1IwT-AMSq-c5oUkz8srhFg/edit?usp=sharing) |
 | October 21, 2020   | 1200            | Taking your Digital Transformation Journey to Innovation | [Unscripted Conference](https://www.unscriptedconf.io/)  |
 
 
