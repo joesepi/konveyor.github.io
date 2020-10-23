@@ -17,7 +17,7 @@ The Konveyor Community provides tools in various areas
 
 * [mig-operator](https://github.com/konveyor/mig-operator) - Migrate namespaces between Kubernetes clusters.
 * [virt-operator](https://github.com/konveyor/virt-operator) - Migrate virtual machines to KubeVirt.
-* [move2kube](https://github.com/konveyor/move2kube) - Migrate from Cloud Foundry or Docker Swarm to Kubernetes.
+* [move2kube](/move2kube) - Migrate from Cloud Foundry or Docker Swarm to Kubernetes.
 * [pelorus](https://github.com/redhat-cop/pelorus) - Measure the four critical measures to software delivery performance.
 * [windup](https://github.com/windup/windup) - Analyze applications for modernization paths.
 
@@ -36,7 +36,7 @@ virt-operator allows users to discover virtual machines running on traditional v
 
 ### Move2Kube
 
-![mig-operator](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_move2kube.png)
+![move2kube](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_move2kube.png)
 
 move2kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. 
 
