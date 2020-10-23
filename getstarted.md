@@ -14,4 +14,3 @@ Currently, each project within Konveyor maintains their own getting started docu
 | mig-operator | [link](https://github.com/konveyor/mig-operator) | 
 | virt-operator | [link](https://github.com/konveyor/virt-operator) |
 
-{% include youtube_embed.html id="6EVs0BrG57I" %}  
