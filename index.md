@@ -5,7 +5,7 @@ layout: default
 
 # What is Konveyor?
 
-Konveyor is *a community of people* passionate about helping others *modernize and migrate their applications* to the hybrid cloud by *building tools, best practices,* and providing advice on how to break down monoliths, adopt containers, and embrace Kubernetes.
+Konveyor is **a community of people** passionate about helping others **modernize and migrate their applications** to the hybrid cloud by **building tools, best practices,** and providing advice on how to break down monoliths, adopt containers, and embrace Kubernetes.
 
 ![konveyor-overview](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Overview.png)
 
