@@ -43,3 +43,5 @@ move2kube is a command line tool that uses source artifacts such as docker compo
 
 If you need help or are interested in collaborating you can ask a question in the [forum](https://groups.google.com/access-error?continue=https://groups.google.com/g/konveyorio) or join us in the #konveyor room on the [Kubernetes slack](https://slack.k8s.io/). 
 
+
+[Privacy Policy](https://konveyor.github.io/privacy)
