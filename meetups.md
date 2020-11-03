@@ -5,7 +5,7 @@ You can find a list of presentations and meetings on this page. All dates and ti
 | ------------------ | --------------- |-----------|-----------|
 | November 16, 2020  | 1100            | Migrating VMs from OpenStack to KubeVirt with stack2shift | [Meet](https://meet.google.com/rcy-fqcg-pvs?hs=122&authuser=0) |
 | November 10, 2020  | 1000            | Analyzing applications for containerization with Pathfinder | [Meet](https://meet.google.com/jke-hvsy-jyk?hs=122&authuser=0)
-| November 3, 2020   | 1100            | Migrating applications to k8s with the Migration Toolkit for Apps | [Meet](https://primetime.bluejeans.com/a2m/live-event/kudzpbdz) |
+| November 3, 2020   | 1100            | Migrating applications to k8s with the Migration Toolkit for Apps | [Recording](https://drive.google.com/file/d/11NAdwXYFs7Zq7D5_QraWfgDafF01-Q9H/view?usp=sharing)[Slides](https://docs.google.com/presentation/d/1te2-prbnzUrA7TKUKTr8yZF8PpIfUb_yJhXLTJmoYfQ/edit?usp=sharing) |
 | October 26, 2020   | 1200            | Migrating applications between K8s clusters | [Recording](https://drive.google.com/file/d/1ZJpqM1c2ZO4YNsHaEWl-W2CbIskmxAB5/view?usp=sharing) [Slides](https://docs.google.com/presentation/d/1uOUsUCqiBpgq-54yg0qkc7JYeCB3X-4cd4f7qy4cYGI/edit#slide=id.p)  |
 | October 23, 2020   | 0900            | Translating Application Requirements into Helm Charts | [Recording](https://drive.google.com/file/d/1S92cSZvUtIhLlZyHeAZ5le3yn4DgAmxx/view?usp=sharing) [Slides](https://docs.google.com/presentation/d/1BN5__zvVlmBc47Jv1IMBi1IwT-AMSq-c5oUkz8srhFg/edit?usp=sharing) |
 | October 21, 2020   | 1200            | Taking your Digital Transformation Journey to Innovation | [Unscripted Conference](https://www.unscriptedconf.io/)  |
