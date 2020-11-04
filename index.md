@@ -36,7 +36,7 @@ mig-operator allows users to discover namespaces on source clusters and migrate 
 virt-operator allows users to discover virtual machines running on traditional virtualization (vSphere) and migrate them to Kubevirt.
 
 
-### Move2Kube
+### move2Kube
 
 ![mig-operator](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_move2kube.png)
 
