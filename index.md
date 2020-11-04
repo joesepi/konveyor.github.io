@@ -5,19 +5,23 @@ layout: default
 
 # What is Konveyor?
 
-Konveyor is **a community of people** passionate about helping others **modernize and migrate their applications** to the hybrid cloud by **building tools, best practices,** and providing advice on how to break down monoliths, adopt containers, and embrace Kubernetes.
+Konveyor is **a community of people** passionate about helping others **modernize and migrate their applications** to the hybrid cloud by **building tools, identifying patterns,** and providing advice on how to break down monoliths, adopt containers, and embrace Kubernetes.
 
 ![konveyor-overview](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Overview.png)
 
+The community hosts regular [Meetups](meetups.md) where community members talk and demonstrate things they've learned. If you'd like to receive invitations to the meetups or propose a talk you can [join the google group](https://groups.google.com/forum/#!forum/konveyorio).
+
 ## Tools in the Konveyor Community
 
-The Konveyor Community provides tools in various areas
+The Konveyor Community is working on tools in many areas. Here is a quick overview of some of the tools:
 
 * [mig-operator](https://github.com/konveyor/mig-operator) - Migrate namespaces between Kubernetes clusters.
 * [virt-operator](https://github.com/konveyor/virt-operator) - Migrate virtual machines to KubeVirt.
 * [move2kube](https://github.com/konveyor/move2kube) - Migrate from Cloud Foundry or Docker Swarm to Kubernetes.
 * [pelorus](https://github.com/redhat-cop/pelorus) - Measure the four critical measures to software delivery performance.
 * [windup](https://github.com/windup/windup) - Analyze applications for modernization paths.
+
+If you have a tool you'd like to contribute please start a new thread in the [google group](https://groups.google.com/forum/#!forum/konveyorio).
 
 ### mig-operator
 
