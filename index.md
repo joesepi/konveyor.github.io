@@ -7,7 +7,7 @@ layout: default
 
 Konveyor is **a community of people** passionate about helping others **modernize and migrate their applications** to the hybrid cloud by **building tools, identifying patterns,** and providing advice on how to break down monoliths, adopt containers, and embrace Kubernetes.
 
-![konveyor-overview](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Overview.png){: .center-image }
+{% include youtube_embed.html id="DDEZFUFErfA" %}  
 
 The community hosts regular [Meetups](meetups.md) where community members talk and demonstrate things they've learned. If you'd like to receive invitations to the meetups or propose a talk you can [join the google group](https://groups.google.com/forum/#!forum/konveyorio).
 
