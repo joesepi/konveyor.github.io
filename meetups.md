@@ -3,7 +3,7 @@ You can find a list of presentations and meetings on this page. All dates and ti
 
 | Date               |     Time (ET)  |  Topic    |   Link    | 
 | ------------------ | --------------- |-----------|-----------|
-| November 16, 2020  | 1200            | Migrating VMs from OpenStack to KubeVirt with stack2shift | [Join]https://primetime.bluejeans.com/a2m/live-event/fkhqvhps) |
+| November 16, 2020  | 1200            | Migrating VMs from OpenStack to KubeVirt with stack2shift | [Join](https://primetime.bluejeans.com/a2m/live-event/fkhqvhps) |
 | November 10, 2020  | 1100            | Analyzing applications for containerization with Pathfinder | [Join](https://primetime.bluejeans.com/a2m/live-event/uejkwhww)
 | November 3, 2020   | 1100            | Migrating applications to k8s with the Migration Toolkit for Apps | [Recording](https://www.youtube.com/watch?v=6CWes03Y6Oo&list=PL4aUFFbk56EOZSPuGGXCaj0r8Q3HN5V0M&index=3) [Slides](https://docs.google.com/presentation/d/1te2-prbnzUrA7TKUKTr8yZF8PpIfUb_yJhXLTJmoYfQ/edit?usp=sharing) |
 | October 26, 2020   | 1200            | Migrating applications between K8s clusters | [Recording](https://www.youtube.com/watch?v=4RjeokcTr8M&list=PL4aUFFbk56EOZSPuGGXCaj0r8Q3HN5V0M&index=1) [Slides](https://docs.google.com/presentation/d/1uOUsUCqiBpgq-54yg0qkc7JYeCB3X-4cd4f7qy4cYGI/edit#slide=id.p)  |
