@@ -3,6 +3,7 @@ You can find a list of presentations and meetings on this page. All dates and ti
 
 | Date               |     Time (ET)  |  Topic    |   Link    | 
 | ------------------ | --------------- |-----------|-----------|
+| January 5, 2020    | 1100            | Analyzing Applications with Cloud Suitability Analyzer | [Join]() |
 | December 15, 2020  | 1100            | Why tools make DX easier | [Join](https://primetime.bluejeans.com/a2m/live-event/twwwbrxe) |
 | December 4, 2020   | 1000            | Migrating VMs to KubeVirt | [Join](https://primetime.bluejeans.com/a2m/live-event/czywdygy) |
 | November 16, 2020  | 1200            | Migrating VMs from OpenStack to KubeVirt with stack2shift | [Join](https://primetime.bluejeans.com/a2m/live-event/fkhqvhps) |
