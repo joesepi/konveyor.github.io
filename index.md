@@ -15,8 +15,8 @@ The community hosts regular [Meetups](meetups.md) where community members talk a
 
 The Konveyor Community is working on tools in many areas. Here is a quick overview of some of the tools:
 
-* [mig-operator](https://github.com/konveyor/mig-operator) - Migrate namespaces between Kubernetes clusters.
-* [virt-operator](https://github.com/konveyor/virt-operator) - Migrate virtual machines to KubeVirt.
+* [crane](https://github.com/konveyor/mig-operator) - Migrate namespaces between Kubernetes clusters.
+* [forklift](https://github.com/konveyor/forklift-operator) - Migrate virtual machines to KubeVirt.
 * [move2kube](/move2kube) - Migrate from Cloud Foundry or Docker Swarm to Kubernetes.
 * [pelorus](https://github.com/redhat-cop/pelorus) - Measure the four critical measures to software delivery performance.
 * [windup](https://github.com/windup/windup) - Analyze applications for modernization paths.
