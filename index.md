@@ -23,15 +23,15 @@ The Konveyor Community is working on tools in many areas. Here is a quick overvi
 
 If you have a tool you'd like to contribute please start a new thread in the [google group](https://groups.google.com/forum/#!forum/konveyorio).
 
-### mig-operator
+### crane
 
-![mig-operator](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_mig-operator.png)
+![crane](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_mig-operator.png)
 
 mig-operator allows users to discover namespaces on source clusters and migrate the objects and their persistent volumes to a destination cluster.
 
-### virt-operator
+### forklift
 
-![virt-operator](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_virt-operator.png)
+![forklift](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_virt-operator.png)
 
 virt-operator allows users to discover virtual machines running on traditional virtualization (vSphere) and migrate them to Kubevirt.
 
