@@ -27,14 +27,13 @@ If you have a tool you'd like to contribute please start a new thread in the [go
 
 ![crane](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_mig-operator.png)
 
-mig-operator allows users to discover namespaces on source clusters and migrate the objects and their persistent volumes to a destination cluster.
+Crane allows users to discover namespaces on source clusters and migrate the objects and their persistent volumes to a destination cluster.
 
 ![fork logo](https://github.com/konveyor/konveyor.github.io/raw/master/images/forklift-logo-lightbg.png)
 
 ![forklift](https://github.com/konveyor/konveyor.github.io/raw/master/images/Konveyor_Diagram_virt-operator.png)
 
-virt-operator allows users to discover virtual machines running on traditional virtualization (vSphere) and migrate them to Kubevirt.
-
+Forklift allows users to discover virtual machines running on traditional virtualization (vSphere) and migrate them to Kubevirt.
 
 ### move2Kube
 
@@ -42,10 +41,8 @@ virt-operator allows users to discover virtual machines running on traditional v
 
 move2kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. 
 
-
 ## Assistance and Collaboration
 
 If you need help or are interested in collaborating you can ask a question in the [forum](https://groups.google.com/access-error?continue=https://groups.google.com/g/konveyorio) or join us in the #konveyor room on the [Kubernetes slack](https://slack.k8s.io/). 
-
 
 [Privacy Policy](https://konveyor.github.io/privacy)
