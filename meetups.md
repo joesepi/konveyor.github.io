@@ -8,7 +8,7 @@ You can find a list of presentations and meetings on this page. All dates and ti
 | February 23, 2021    | 1100            | Value Realization framework for Application Modernization | [Coming soon] |
 | February 10, 2021    | 1100            | Native Kubernetes CI/CD Pipelines | [Coming soon] |
 | January 26, 2021    | 1100            | Migrating Spring Boot "Pet-Clinic" (REST version) to Quarkus | [Coming soon] |
-| January 5, 2020    | 1100            | Analyzing Applications with Cloud Suitability Analyzer | [Join](https://primetime.bluejeans.com/a2m/live-event/pbgfqjtv) |
+| January 5, 2020    | 1100            | Analyzing Applications with Cloud Suitability Analyzer | [Recording](https://youtu.be/XiR_MdUAyJI) [Slides](https://drive.google.com/file/d/1-QjxJ5T9iHcekSKQi5VUQgn-nA5Hxsq5/view?usp=sharing) |
 | December 15, 2020  | 1100            | Why tools make DX easier | [Recording](https://youtu.be/hMxNNOdaJj0) [Slides](https://docs.google.com/presentation/d/1ftOR0eZpIuk5JfI8isT_H-zoidcl6x9jTrQKahNMd8Y/edit?usp=sharing) |
 | December 4, 2020   | 1000            | Migrating VMs to KubeVirt | [Recording](https://youtu.be/RnoIP3QjHww) [Slides](https://docs.google.com/presentation/d/1RITs5brNf0KVvTcgATObcaPNCNV5_kQM-vPmQld13no/edit?usp=sharing) | 
 | November 16, 2020  | 1200            | Migrating VMs from OpenStack to KubeVirt with stack2shift | [Recording](https://youtu.be/3Qk7-YDDKvQ) [Slides](https://docs.google.com/presentation/d/1cQeO0Xp-bz5JZpthP_TSu0dA_fT6miidibdHUCMClyY/edit?usp=sharing) |
