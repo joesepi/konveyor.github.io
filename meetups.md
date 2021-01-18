@@ -3,7 +3,6 @@ You can find a list of presentations and meetings on this page. All dates and ti
 
 | Date               |     Time (ET)  |  Topic    |   Link    | 
 | ------------------ | --------------- | ----------- | ----------- |
-
 | March 2, 2021    | 1100            |  Bluemix to OpenShift Container Platform | [Coming soon]|
 | February 23, 2021    | 1100            | Value Realization framework for Application Modernization | [Coming soon] |
 | February 10, 2021    | 1100            | Native Kubernetes CI/CD Pipelines | [Coming soon] |
