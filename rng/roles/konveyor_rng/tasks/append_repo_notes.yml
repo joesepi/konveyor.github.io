@@ -1,0 +1,33 @@
+---
+- name: Set repo checkout dir and notes to append file
+  set_fact:
+    repo_dir: "{{ tmp.path }}/{{ item.name }}"
+    notes_to_append_f: "{{ tmp.path }}/notes-to-append.md"
+
+- name: Handle changes
+  block:
+  - name: "Checkout {{ item.name }}"
+    git:
+      repo: "{{ item.url }}"
+      dest: "{{ repo_dir }}"
+
+  - name: Register commit diff
+    shell: "git log --oneline origin/{{ item.lrv }}..origin/{{ item.nrv }}"
+    args:
+      chdir: "{{ repo_dir }}"
+    register: commit_diff
+
+  - name: Render notes to append tempfile
+    template:
+      src: notes-to-append.md.j2
+      dest: "{{ notes_to_append_f }}"
+  when: item.has_changes
+
+- name: Handle no changes
+  template:
+    src: notes-to-append-no-changes.md.j2
+    dest: "{{ notes_to_append_f }}"
+  when: not item.has_changes
+
+- name: Append notes to output notes
+  shell: "cat {{ notes_to_append_f }} >> {{ output_file }}"

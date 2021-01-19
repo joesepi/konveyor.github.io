@@ -1,0 +1,62 @@
+project_name: Crane
+new_release_version: 1.3.2
+last_release_version: 1.3.1
+output_dir: "{{ root_dir }}/{{ project_name }}"
+output_file: "{{ output_dir }}/release-{{ new_release_version }}.md"
+
+repos:
+- name: mig-ui
+  url: "git@github.com:/konveyor/mig-ui.git"
+  nrv: "release-{{ new_release_version }}"
+  lrv: "release-{{ last_release_version}}"
+  has_changes: true
+- name: mig-controller
+  url: "git@github.com:/konveyor/mig-controller.git"
+  nrv: "release-{{ new_release_version }}"
+  lrv: "release-{{ last_release_version}}"
+  has_changes: true
+- name: mig-operator
+  url: "git@github.com:/konveyor/mig-operator.git"
+  nrv: "release-{{ new_release_version }}"
+  lrv: "release-{{ last_release_version}}"
+  has_changes: true
+- name: velero
+  url: "git@github.com:/konveyor/velero.git"
+  nrv: "konveyor-1.4.3"
+  lrv: "konveyor-1.4.2"
+  has_changes: true
+- name: openshift-velero-plugin
+  url: "git@github.com:/konveyor/openshift-velero-plugin.git"
+  nrv: "release-{{ new_release_version }}"
+  lrv: "release-{{ last_release_version}}"
+  has_changes: true
+- name: velero-plugin-for-microsoft-azure
+  url: "git@github.com:/konveyor/velero-plugin-for-microsoft-azure.git"
+  nrv: "konveyor-1.1.1"
+  lrv: "konveyor-1.1.0"
+  has_changes: true
+- name: velero-plugin-for-aws
+  url: "git@github.com:/konveyor/velero-plugin-for-aws.git"
+  nrv: "konveyor-1.1.0"
+  lrv: "konveyor-1.0.1"
+  has_changes: false
+- name: velero-plugin-for-gcp
+  url: "git@github.com:/konveyor/velero-plugin-for-gcp.git"
+  nrv: "konveyor-1.1.0"
+  lrv: "konveyor-1.0.1"
+  has_changes: false
+- name: restic
+  url: "git@github.com:/konveyor/restic.git"
+  nrv: "konveyor-v0.9.6"
+  lrv: "fusor-v0.9.5"
+  has_changes: false
+- name: hook-runner
+  url: "git@github.com:/konveyor/hook-runner.git"
+  nrv: "release-{{ new_release_version }}"
+  lrv: "release-{{ last_release_version }}"
+  has_changes: false
+- name: must-gather
+  url: "git@github.com:/konveyor/must-gather.git"
+  nrv: "release-{{ new_release_version }}"
+  lrv: "release-{{ last_release_version }}"
+  has_changes: true

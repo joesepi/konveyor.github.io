@@ -1,0 +1,28 @@
+---
+
+- name: Ensure release notes directory exists
+  file:
+    path: "{{ output_dir }}"
+    state: directory
+
+- name: Initialize notes
+  template:
+    src: init-release-notes.md.j2
+    dest: "{{ output_file }}"
+
+- name: Create and register working temp dir
+  tempfile:
+    state: directory
+  register: tmp
+
+- debug:
+    msg: "Tempfile dir: {{ tmp.path }}"
+
+- name: Append repo notes
+  include_tasks: append_repo_notes.yml
+  loop: "{{ repos }}"
+
+- name: Cleanup temporary dir
+  file:
+    path: "{{ tmp.path }}"
+    state: absent
