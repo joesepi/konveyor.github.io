@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Privacy Statement for the Konveyor Community
 ## Scope of This Notice
 This Privacy Statement is intended to describe the Konveyor Project’s privacy practices and provide information about the choices you have regarding the ways in which information collected by the Konveyor Project is used and disclosed. For convenience, the Konveyor Project is referred to in this document as “Konveyor”.

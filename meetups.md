@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 You can find a list of presentations and meetings on this page. All dates and times are Eastern Daylight Time zone (GMT-4). If you would like to receive invitations to meetups please join the [Konveyor Google Group](https://groups.google.com/g/konveyorio). If you are interested in presenting your work to the Konveyor community please email [konveyor@googlegroups.io](mailto:konveyor@googlegroups.io) with your idea and someone from the community will contact you.
 
 

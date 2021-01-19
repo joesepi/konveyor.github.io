@@ -3,7 +3,7 @@ description: Accelerating your journey to Kubernetes
 show_downloads: true
 google_analytics: G-J08VDXBTDB
 theme: jekyll-theme-cayman
-home_url: https://konveyor.github.io/
+home_url: https://konveyor.io/
 github_url: http://github.com/konveyor
 getstarted_url: /getstarted
 slack_url: https://kubernetes.slack.com/archives/CR85S82A2
