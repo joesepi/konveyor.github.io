@@ -23,13 +23,13 @@ The Konveyor Community is working on tools in many areas. Here is a quick overvi
 
 If you have a tool you'd like to contribute please start a new thread in the [google group](https://groups.google.com/forum/#!forum/konveyorio).
 
-![crane logo](https://github.com/konveyor/konveyor.github.io/raw/master/images/crane-logo-lightbg.png)
+![crane logo](https://konveyor.io/raw/master/images/crane-logo-lightbg.png)
 
 ![crane](https://konveyor.io/images/Konveyor_Diagram_mig-operator.png)
 
 Crane allows users to discover namespaces on source clusters and migrate the objects and their persistent volumes to a destination cluster.
 
-![fork logo](https://github.com/konveyor/konveyor.github.io/raw/master/images/forklift-logo-lightbg.png)
+![fork logo](https://konveyor.io/raw/master/images/forklift-logo-lightbg.png)
 
 ![forklift](https://konveyor.io/images/Konveyor_Diagram_virt-operator.png)
 
